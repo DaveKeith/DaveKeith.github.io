@@ -58,5 +58,6 @@ footer.page-footer {
 
 .collapsible-header{
   text-align: center;
-  background-color: grey;
+  background-color: dodgerblue;
+  color: white
 }
