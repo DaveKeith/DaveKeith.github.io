@@ -16,7 +16,7 @@ p {
 }
 
 .button-collapse {
-  color: black;
+  color: #26a69a;
 }
 
 .parallax-container {
@@ -67,5 +67,9 @@ footer.page-footer {
 .collapsible-header{
   text-align: center;
   background-color: #2F4F4F;
-  color: white
+  color: white;
+}
+
+.btn-large{
+  border-radius: 50%;
 }
