@@ -68,8 +68,8 @@ footer.page-footer {
   text-align: center;
   background-color: #2F4F4F;
   color: white;
+  border-radius: 50%;
 }
 
 .btn-large{
-  border-radius: 10%;
 }
