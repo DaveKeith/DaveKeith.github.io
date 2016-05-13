@@ -71,5 +71,6 @@ footer.page-footer {
 }
 
 .btn-large{
+  background-color: black;
   border-radius: 50%;
 }
