@@ -74,3 +74,9 @@ footer.page-footer {
   background-color: dodgerblue;
   border-radius: 30%;
 }
+
+.in_the_round_box{
+  height: 80%;
+  width: 80%;
+  vertical-align: middle;
+}
