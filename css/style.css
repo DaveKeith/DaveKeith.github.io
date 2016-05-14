@@ -70,7 +70,7 @@ footer.page-footer {
   color: white;
 }
 
-.center{
+.round_box{
   background-color: dodgerblue;
-  border-radius: 50%;
+  border-radius: 30%;
 }
