@@ -70,5 +70,7 @@ footer.page-footer {
   color: white;
 }
 
-.btn-large{
+.center{
+  background-color: dodgerblue;
+  border-radius: 50%;
 }
