@@ -73,10 +73,10 @@ footer.page-footer {
 .round_box{
   background-color: dodgerblue;
   border-radius: 30%;
+  margin: 5px;
 }
 
 .in_the_round_box{
-  height: 80%;
-  width: 80%;
   vertical-align: middle;
+  align-content: center;
 }
