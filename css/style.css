@@ -88,4 +88,5 @@ footer.page-footer {
 
 .collapsible{
   border-radius: 50%;
+  overflow: hidden;
 }
