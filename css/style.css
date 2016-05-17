@@ -62,8 +62,8 @@ footer.page-footer {
 
 .collapsible-header{
   text-align: center;
-  background: blue;
-  background-image: linear-gradient(blue, dodgerblue);
+  background: black;
+  background-image: linear-gradient(black, dodgerblue);
   color: white;
 }
 
