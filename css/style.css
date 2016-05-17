@@ -85,3 +85,7 @@ footer.page-footer {
   vertical-align: middle;
   align-content: center;
 }
+
+.collapsible{
+  border-radius: 50%;
+}
