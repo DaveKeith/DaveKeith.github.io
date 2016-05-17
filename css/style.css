@@ -57,12 +57,12 @@ footer.page-footer {
 }
 
 .projects{
-  color: #2F4F4F;
+  color: linear-gradient(#2F4F4F, dodgerblue);
 }
 
 .collapsible-header{
   text-align: center;
-  background-color: #2F4F4F;
+  background-color: linear-gradient(#2F4F4F, dodgerblue);
   color: white;
 }
 
