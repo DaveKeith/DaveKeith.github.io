@@ -15,10 +15,6 @@ p {
   line-height: 2rem;
 }
 
-.button-collapse {
-  color: #26a69a;
-}
-
 .parallax-container {
   min-height: 380px;
   line-height: 0;
@@ -75,6 +71,8 @@ footer.page-footer {
 }
 
 .in_the_round_box{
+  background: #2F4F4F;
+  background-image: linear-gradient(#2F4F4F, dodgerblue);
   vertical-align: middle;
   align-content: center;
 }
