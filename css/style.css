@@ -62,8 +62,8 @@ footer.page-footer {
 
 .collapsible-header{
   text-align: center;
-  background: #2F4F4F;
-  background-image: linear-gradient(#2F4F4F, dodgerblue);
+  background: blue;
+  background-image: linear-gradient(blue, dodgerblue);
   color: white;
 }
 
@@ -75,7 +75,6 @@ footer.page-footer {
 }
 
 .in_the_round_box{
-  background: dodgerblue;
   vertical-align: middle;
   align-content: center;
 }
