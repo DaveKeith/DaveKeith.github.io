@@ -103,4 +103,5 @@ footer.page-footer {
   height: 100%;
   width: 45%;
   float: right;
+  vertical-align: top;
 }
