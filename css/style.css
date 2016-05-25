@@ -93,7 +93,7 @@ footer.page-footer {
 
 .burj_khalifa{
   width: 49%;
-  display: inline-block;
+  float: left;
 }
 .burj_khalifa img{
   width: 100%;
@@ -101,6 +101,6 @@ footer.page-footer {
 
 .about-section{
   height: 100%;
-  width: 49%;
-  display: inline-block;
+  width: 45%;
+  float: right;
 }
