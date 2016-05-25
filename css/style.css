@@ -93,10 +93,13 @@ footer.page-footer {
 
 .burj_kalifa{
   width: 50%;
+  display: inline-block;
 }
-.background5.jpg{
+.burj_kalifa img{
   width: 100%;
 }
+
 .about-section{
   width: 50%;
+  display: inline-block;
 }
