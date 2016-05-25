@@ -109,4 +109,6 @@ footer.page-footer {
 
 .container2{
   vertical-align: middle;
+  align-self: center;
+  width: 60%;
 }
