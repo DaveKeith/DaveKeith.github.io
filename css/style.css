@@ -86,6 +86,7 @@ footer.page-footer {
 .btn-large{
   opacity: 0.7;
   border: 2px solid white;
+  color: solid white;
 }
 
 .parallax-container2{
