@@ -107,7 +107,8 @@ footer.page-footer {
   vertical-align: top;
 }
 
-.chip img{
+.davepic img{
   height: 50px;
   width: 50px;
+  border-radius: 50%;
 }
