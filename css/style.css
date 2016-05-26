@@ -107,6 +107,7 @@ footer.page-footer {
   vertical-align: top;
 }
 
-.chip{
+.chip img{
   height: 50px;
+  width: 50px;
 }
