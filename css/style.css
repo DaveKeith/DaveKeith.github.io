@@ -106,3 +106,7 @@ footer.page-footer {
   padding-left: 4%;
   vertical-align: top;
 }
+
+.chip{
+  height: 50px;
+}
