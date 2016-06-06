@@ -104,3 +104,13 @@ footer.page-footer {
   border-radius: 50%;
   border: 2px solid grey;
 }
+
+.web_pic{
+  width: 30%;
+  border: 1px solid grey;
+  display: inline-block;
+}
+
+.web_pic img{
+  width: 100%;
+}
