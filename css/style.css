@@ -62,19 +62,12 @@ footer.page-footer {
   color: white;
 }
 
+.logo_box{
+  height: 240px;
+}
+
 .logos img{
   width: 100%;
-}
-
-.in_the_round_box{
-  vertical-align: middle;
-  align-content: center;
-  color: white;
-}
-
-.btn-large{
-  opacity: 0.9;
-  border: 2px solid white;
 }
 
 .parallax-container2{
