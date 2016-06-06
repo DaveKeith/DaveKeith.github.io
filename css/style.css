@@ -67,6 +67,7 @@ footer.page-footer {
 }
 
 .logos img{
+  vertical-align: middle;
   width: 100%;
 }
 
