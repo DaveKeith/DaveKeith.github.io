@@ -71,6 +71,7 @@ footer.page-footer {
 .logos img{
   padding-top: 20px;
   width: 80%;
+  border-radius: 80%;
 }
 
 .logos2 img{
