@@ -69,12 +69,13 @@ footer.page-footer {
 }
 
 .logos img{
-  width: 60%;
+  padding-top: 20px;
+  width: 80%;
 }
 
 .logos2 img{
   padding-top: 70px;
-  width: 60%;
+  width: 80%;
 }
 
 .parallax-container2{
