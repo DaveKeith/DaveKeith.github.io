@@ -67,7 +67,11 @@ footer.page-footer {
 }
 
 .logos img{
-  vertical-align: middle;
+  width: 100%;
+}
+
+.logos2 img{
+  padding-top: 70px;
   width: 100%;
 }
 
