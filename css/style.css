@@ -72,8 +72,9 @@ footer.page-footer {
 }
 
 .logos2 img{
-  padding-top: 70px;
+  padding-top: 30%;
   width: 90%;
+  padding-bottom: 15%;
 }
 
 .parallax-container2{
