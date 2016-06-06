@@ -64,17 +64,17 @@ footer.page-footer {
 
 .logo_box{
   height: 240px;
+  border-radius: 50%;
+  border: 2px solid grey;
 }
 
 .logos img{
-  height: 100%;
-  width: 100%;
+  width: 60%;
 }
 
 .logos2 img{
   padding-top: 70px;
-  height: 100%;
-  width: 100%;
+  width: 60%;
 }
 
 .parallax-container2{
