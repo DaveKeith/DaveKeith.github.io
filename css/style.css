@@ -119,3 +119,8 @@ footer.page-footer {
   padding-left: 25px;
   padding-bottom: 15px;
 }
+
+.social_network img{
+  width: 20px;
+  height: 20px;
+}
