@@ -123,6 +123,10 @@ footer.page-footer {
 .social_network img{
   width: 40px;
   height: 40px;
-  padding: 10px;
+  padding: 5px;
   display: inline-block;
+}
+
+.networks{
+  padding-bottom: 50px;
 }
