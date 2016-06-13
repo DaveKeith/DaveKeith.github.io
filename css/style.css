@@ -127,7 +127,7 @@ footer.page-footer {
   display: inline-block;
 }
 
-a .phone{
+a .phone href{
   color: inherit;
   text-decoration: none;
 }
