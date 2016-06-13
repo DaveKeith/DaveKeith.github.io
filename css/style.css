@@ -126,3 +126,8 @@ footer.page-footer {
   padding: 5px;
   display: inline-block;
 }
+
+.phone_and_email{
+  color: inherit;
+  text-decoration: none;
+}
