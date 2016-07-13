@@ -131,3 +131,8 @@ a[href^="tel"]{
   color: inherit;
   text-decoration: none;
 }
+
+.two_halves{
+  color: white;
+  background-color: black;
+}
