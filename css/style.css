@@ -28,6 +28,10 @@ nav.white{
   position: inherit;
 }
 
+.nav-mobile .side-nav{
+  position: inherit;
+}
+
 .button-collapse {
   color: black;
 }
