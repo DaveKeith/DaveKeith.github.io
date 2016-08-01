@@ -21,6 +21,10 @@ nav.white{
   top: 0px;
 }
 
+.nav-wrapper{
+  position: inherit;
+}
+
 .button-collapse {
   color: black;
 }
@@ -86,6 +90,10 @@ footer.page-footer {
 
 .parallax-container2{
   height: 500px;
+}
+
+.split{
+  top: 50px;
 }
 
 .burj_khalifa{
