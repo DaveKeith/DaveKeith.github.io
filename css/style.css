@@ -19,6 +19,10 @@ p {
   color: black;
 }
 
+.header_menu{
+  padding-left: 15px;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
