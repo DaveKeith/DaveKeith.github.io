@@ -21,7 +21,10 @@ nav.white{
 }
 
 .nav-wrapper{
-  width: 100%;
+  position: inherit;
+}
+
+.right{
   position: inherit;
 }
 
