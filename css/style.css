@@ -15,15 +15,11 @@ p {
   line-height: 2rem;
 }
 
-nav.white{
+/*nav.white{
   position: fixed;
   top: 0px;
 }
-
-.slide-out .side-nav ul{
-  position: fixed;
-  top: 0px;
-}
+*/
 
 .button-collapse {
   color: black;
@@ -92,9 +88,9 @@ footer.page-footer {
   height: 500px;
 }
 
-.split{
+/*.split{
   padding-top: 60px;
-}
+}*/
 
 .burj_khalifa{
   width: 49%;

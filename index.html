@@ -10,9 +10,6 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-
-  <!-- JS -->
-  <script src="/Users/davidkeith/bower_components/jquery/dist/jquery.min.js"></script>
 </head>
 <body>
   <nav class="white" role="navigation">
@@ -22,18 +19,20 @@
           <img src="davekeithpic.jpg">
         </div>
       </a>
+      <ul class="right">
+        <li><a href="#summary-section" class="active">Summary</a></li>
+        <li><a href="#projects-section" class="active">Projects</a></li>
+        <li><a href="#resume-section" class="active">Resume</a></li>
+        <li><a href="#contact-info-section" class="active">Contact</a></li>
+      </ul>
 
-      <script>
-      $('.button-collapse').sideNav('show');
-      </script>
-      
-      <ul id="slide-out" class="side-nav">
+      <ul id="nav-mobile" class="side-nav">
         <li><a href="#contact-info-section" class="active">Contact</a></li>
         <li><a href="#resume-section" class="active">Resume</a></li>
         <li><a href="#projects-section" class="active">Projects</a></li>
         <li><a href="#summary-section" class="active">Summary</a></li>
       </ul>
-      <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
   </nav>
 
