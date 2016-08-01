@@ -15,8 +15,10 @@ p {
   line-height: 2rem;
 }
 
-nav .white{
+.nav-wrapper .container{
+  width: 100%;
   position: fixed;
+  top: 0px;
 }
 
 .button-collapse {
