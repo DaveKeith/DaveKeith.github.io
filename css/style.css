@@ -20,12 +20,9 @@ nav.white{
   top: 0px;
 }
 
-.nav-wrapper{
-  position: inherit;
-}
-
 .right ul{
-  position: inherit;
+  position: fixed;
+  top: 0px;
 }
 
 .button-collapse {
