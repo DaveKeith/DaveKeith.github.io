@@ -146,5 +146,8 @@ a[href^="tel"]{
 }
 
 .no_col{
+  margin: auto;
+  left: 0px;
+  right: 0px;
   max-width: 500px;
 }
