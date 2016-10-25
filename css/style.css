@@ -140,7 +140,11 @@ a[href^="tel"]{
   text-decoration: none;
 }
 
-.logos3{
+.logos3 img{
   height: 90%;
   width: 90%;
+}
+
+.no_col{
+  max-width: 500px;
 }
