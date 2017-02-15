@@ -66,6 +66,10 @@ footer.page-footer {
   color: white;
 }
 
+.collapsible-body{
+  padding: 10px;
+}
+
 .logo_box{
   height: 45%;
 }
